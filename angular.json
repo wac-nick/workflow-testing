@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "workflow-testing"
+    }
+  },
+  "defaultProject": "workflow-testing",
+  "cli": {
+    "analytics": false
+  }
 }
