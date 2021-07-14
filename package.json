@@ -16,7 +16,7 @@
       "master"
     ]
   },
-  "files": ["dist/*"],
+  "files": ["dist/*", "*"],
   "dependencies": {
     "@angular/animations": "~9.1.12",
     "@angular/common": "~9.1.12",
